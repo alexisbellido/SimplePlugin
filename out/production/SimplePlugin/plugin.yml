@@ -1,0 +1,9 @@
+name: SimplePlugin
+version: 1.1
+author: Alexis Bellido
+main: com.zinibu.simpleplugin.Simple
+
+commands:
+  simple:
+    description: Say hello to everyone!
+    usage: /simple
